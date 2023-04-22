@@ -1,5 +1,6 @@
 #include "main.h"
 
+//Teamwork
 /**
  * get_precision - Calculates the precision for printing
  * @format: Formatted string in which to print the arguments
