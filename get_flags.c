@@ -1,5 +1,6 @@
 #include "main.h"
 
+/**************First Team Work**************/
 /**
  * get_flags - Calculates active flags
  * @format: Formatted string in which to print the arguments
