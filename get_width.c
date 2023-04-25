@@ -1,5 +1,6 @@
 #include "main.h"
 
+/***************First Team Work***************/
 /**
  * get_width - Calculates the width for printing
  * @format: Formatted string in which to print the arguments.
