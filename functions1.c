@@ -1,7 +1,5 @@
 #include "main.h"
 
-// Team Work
-
 /************************* PRINT UNSIGNED NUMBER *************************/
 /**
  * print_unsigned - Prints an unsigned number

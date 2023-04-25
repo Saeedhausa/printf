@@ -1,7 +1,5 @@
 #include "main.h"
 
-
-//Teamwork
 /************************* WRITE HANDLE *************************/
 /**
  * handle_write_char - Prints a string
